@@ -5,9 +5,9 @@
 <!-- Styles -->
 <link rel="stylesheet" href="./src/files/style.css">
 
+<!-- Typewriter -->
 <script src="./src/files/core.js"></script>
-
-<style>.Typewriter__cursor{-webkit-animation:Typewriter-cursor 1s infinite;animation:Typewriter-cursor 1s infinite;margin-left:1px}@-webkit-keyframes Typewriter-cursor{0%{opacity:0}50%{opacity:1}100%{opacity:0}}@keyframes Typewriter-cursor{0%{opacity:0}50%{opacity:1}100%{opacity:0}}</style></head>
+</head>
 
 
 <body class="vsc-initialized" data-site-url="./src/files" data-page-url="/" data-gr-c-s-loaded="true">
