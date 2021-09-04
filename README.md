@@ -1,18 +1,20 @@
 <img align="left" src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365" /> </p>
 <hr>
 
 ![Header](https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/header.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&lines=👋+This+is+Anurag+Yadav....">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&lines=👋+This+is+Anurag+Yadav....;Nice+To+See+You">
   </a>
 </h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Check Me Out</h1>
 
 <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> About Me:
+
 - Email **anuragyadavmnp@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +43,7 @@
 ### - Languages and Tools...
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,16 +57,18 @@
 
 ### - Editors/IDEs...
 <p align="center">
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-    ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+  ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 </p>
 
 ### - Version Control...
 <p align="center">
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
