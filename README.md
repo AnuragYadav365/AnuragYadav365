@@ -1,3 +1,29 @@
+<!DOCTYPE html>
+<html class="no-js fontawesome-i2svg-active fontawesome-i2svg-complete" data-lt-installed="true" lang="en">
+<head>
+
+<!-- Styles -->
+<link rel="stylesheet" href="./src/files/style.css">
+
+<!-- Typewriter -->
+<script src="./src/files/core.js"></script>
+
+<style>.Typewriter__cursor{-webkit-animation:Typewriter-cursor 1s infinite;animation:Typewriter-cursor 1s infinite;margin-left:1px}@-webkit-keyframes Typewriter-cursor{0%{opacity:0}50%{opacity:1}100%{opacity:0}}@keyframes Typewriter-cursor{0%{opacity:0}50%{opacity:1}100%{opacity:0}}</style></head>
+
+
+<body class="vsc-initialized" data-site-url="./src/files" data-page-url="/" data-gr-c-s-loaded="true">
+
+<div class="wrap mainpage">
+
+<h1 id="header"><span class="Typewriter__wrapper"></span><span class="Typewriter__cursor">|</span></h1>
+
+<h4 id="subheader"><span class="Typewriter__wrapper"></span><span class="Typewriter__cursor">|</span></h4>
+
+<p id="subheader" style="display: none;"><span      class="Typewriter__wrapper"></span><span    class="Typewriter__cursor">|</span>
+</p>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -22,3 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragyadav365&" alt="anuragyadav365" /></p>
 
+</body>
+<script src = "./src/files/script.js"></script>
+</html>
