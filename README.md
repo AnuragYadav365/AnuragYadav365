@@ -4,9 +4,6 @@
 
 <!-- Styles -->
 <link rel="stylesheet" href="./src/files/style.css">
-
-<!-- Typewriter -->
-<script src="./src/files/core.js"></script>
 </head>
 
 
@@ -48,4 +45,6 @@
 
 </body>
 <script src = "./src/files/script.js"></script>
+<!-- Typewriter -->
+<script src="./src/files/core.js"></script>
 </html>
