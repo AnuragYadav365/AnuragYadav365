@@ -1,20 +1,28 @@
-<div align="center">
-<a href = "https://git.io/typing-svg>
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&lines=Hello,+There!+👋;This+is+Anurag+Yadav....">
-</a>
-<img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-<p> <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365" /> </p>
-</div>
+<img align="left" src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365" /> </p>
+<hr>
 
+![Header](https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/header.png)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&lines=👋+This+is+Anurag+Yadav....">
+  </a>
+</h1>
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - Email **anuragyadavmnp@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anurag-y-70295b178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-y-70295b178" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anurag_yadav01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anurag_yadav01" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/b2yw04pn2dz5s92mdibm9q2f2" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/spotify.svg" alt="NOAH" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/anurag-y-70295b178" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/linkedin.svg" alt="anurag-y-70295b178" height="40" width="50"/></a>
+<a href="https://www.codechef.com/users/anurag_yadav01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anurag_yadav01" height="40" width="50"/></a>
 <a href="https://www.hackerrank.com/str_anuragyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="str_anuragyadav" height="30" width="40" /></a>
-<a href="https://discord.gg/#5785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5785" height="30" width="40" /></a>
+<a href="https://discord.gg/#5785" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/discord.svg" alt="#5785" height="40" width="50"/></a>
+<a href="https://github.com/AnuragYadav365" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/github.svg" alt="AnuragYadav365" height="40" width="50"/></a>
 </p>
 
 <hr>
@@ -33,11 +41,29 @@
 ### - Languages and Tools...
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </p>
 
+### - Editors/IDEs...
+<p align="center">
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+    ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+</p>
+
+### - Version Control...
+<p align="center">
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
