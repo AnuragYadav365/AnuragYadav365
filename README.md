@@ -5,7 +5,6 @@
 <!-- Styles -->
 <link rel="stylesheet" href="./src/files/style.css">
 
-<!-- Typewriter -->
 <script src="./src/files/core.js"></script>
 
 <style>.Typewriter__cursor{-webkit-animation:Typewriter-cursor 1s infinite;animation:Typewriter-cursor 1s infinite;margin-left:1px}@-webkit-keyframes Typewriter-cursor{0%{opacity:0}50%{opacity:1}100%{opacity:0}}@keyframes Typewriter-cursor{0%{opacity:0}50%{opacity:1}100%{opacity:0}}</style></head>
@@ -29,7 +28,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragyadav365" alt="anuragyadav365" /></a> </p>
 
 - Email **anuragyadavmnp@gmail.com**
 
