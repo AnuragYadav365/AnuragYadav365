@@ -2,26 +2,20 @@
 <hr>
 
 ![Header](https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/header.png)
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&lines=👋+Welcome to My Github....;Nice+To+See+You">
-  </a>
-</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Github;Nice+to+See+You...)](https://git.io/typing-svg)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Check Me Out</h1>
 
 <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
 
-### <img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="250px"> About Me:
+### <img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="140px"> About Me:
 
 <p align="right">
-- I am an undergraduate student.
 <br>
-- Studying in Chandigarh University
 <br>
-- Contact: 982664
 <br>
-- Email **anuragyadavmnp@gmail.com**
+<br>
 <br>
 <br>
 <br>
