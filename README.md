@@ -13,7 +13,6 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="180px"> About Me:
 
-https://img.shields.io/github/last-commit/AnuragYadav365/365daysofcoding
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fanuragyadav365.github.io%2Fportfolio.html)
 [![GitHub latest commit](https://img.shields.io/github/last-commit/AnuragYadav365/365daysofcoding)](https://github.com/AnuragYadav365/365daysofcoding/commit)
 
