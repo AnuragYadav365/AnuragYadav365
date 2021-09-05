@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+Github;Nice+to+See+You...)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365"/>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&lines=Welcome+To+My+Github;Nice+to+See+You...)](https://git.io/typing-svg)
+</h1>
 
 ![Header](https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/header.png)
 
@@ -7,24 +11,19 @@
 
 <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
 
-### <img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="180px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="180px"> About Me:
 
-<img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365" />
-
+https://img.shields.io/github/last-commit/AnuragYadav365/365daysofcoding
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fanuragyadav365.github.io%2Fportfolio.html)
-[![GitHub commits](https://github.com/AnuragYadav365/365daysofcoding/commit)](https://github.com/AnuragYadav365/365daysofcoding/commit)
-[![GitHub latest commit](https://github.com/AnuragYadav365/365daysofcoding/commit)](https://github.com/AnuragYadav365/365daysofcoding/commit)
-[![GitHub stars](https://github.com/AnuragYadav365/365daysofcoding/stargazers/)](https://github.com/AnuragYadav365/365daysofcoding/stargazers/)
-[![GitHub forks](https://github.com/AnuragYadav365/365daysofcoding/network/)](https://github.com/AnuragYadav365/365daysofcoding/network/)
-
-<br>
+[![GitHub latest commit](https://img.shields.io/github/last-commit/AnuragYadav365/365daysofcoding)](https://github.com/AnuragYadav365/365daysofcoding/commit)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AnuragYadav365/)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/AnuragYadav365)
 ![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
+
 ### Achievements/ What I did back then!
 
-<img align='center' src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>
+<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -81,14 +80,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 <h1 align='center'>
-
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://github.com/AnuragYadav365)
 ⚡️<i>Stay awesome, Keep Chilling!</i>⚡️</h1>
+
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/AnuragYadav365)
-
-<br>
-
-<p align='center'>
-
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://github.com/AnuragYadav365)
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/AnuragYadav365/)
-</p>
