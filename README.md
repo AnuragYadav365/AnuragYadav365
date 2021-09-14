@@ -1,4 +1,6 @@
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365"/> <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1986?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+</div>
 
 <div align="center">
   
@@ -14,25 +16,30 @@
 </div>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Check Me Out</h1>
 
-> <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
+> <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/india.png" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
+<img align ="right" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/NUX_Octodex.gif" width="310" height="270"/>
 
 ### About Me:
+* On the road, to become a Software Engineer!
+* Learning Python, Java, React, Kotlin, and 69 others...
+* I love meeting new people (still kinda *introvert*)
+* I'm still teenager(17), yeah on 10 April 2004
+* I use daily .java, .py, .cpp, .sql
+* Funny + Unique -> **Funique**
 
-
-<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>
-
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+### Connect? lets get social
 <a href="https://open.spotify.com/user/b2yw04pn2dz5s92mdibm9q2f2" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/spotify.svg" alt="NOAH" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/anurag-y-70295b178" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/linkedin.svg" alt="anurag-y-70295b178" height="40" width="50"/></a>
 <a href="https://www.codechef.com/users/anurag_yadav01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anurag_yadav01" height="40" width="50"/></a>
 <a href="https://www.hackerrank.com/str_anuragyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="str_anuragyadav" height="30" width="40" /></a>
 <a href="https://discord.gg/#5785" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/discord.svg" alt="#5785" height="40" width="50"/></a>
 <a href="https://github.com/AnuragYadav365" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/github.svg" alt="AnuragYadav365" height="40" width="50"/></a>
-</p>
 
-<hr>
+
+## Life's Moto
+*Life life at its best(try everything), so that when Heaven calls, can proudly say **I have lived my life joyfully with a lot of fun** *
+
+<!--<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>-->
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'/> My Github Stats:
 
