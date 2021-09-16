@@ -37,7 +37,7 @@
 
 
 ## Life's Moto
-*Life life at its best(try everything), so that when Heaven calls, can proudly say **I have lived my life joyfully with a lot of fun** *
+*Live life at its best(try everything), so that when Heaven calls, can proudly say **I have lived my life joyfully with a lot of fun**
 
 <!--<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>-->
 
@@ -82,6 +82,18 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
+
+<br>
+<details>
+<summary>Didn't get enough? Check here!</summary>
+<br>
+Nothing new Right now!
+<br><br>
+<pre>
+&gt;&gt;It's Coming Soon!
+</pre>
+</details>
+
 <h1 align='center'>
 ⚡️<i>Stay awesome, Keep Chilling!</i>⚡️</h1>
 
