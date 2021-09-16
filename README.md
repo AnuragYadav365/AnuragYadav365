@@ -23,7 +23,7 @@
 * On the road, to become a Software Engineer!
 * Learning Python, Java, React, Kotlin, and 69 others...
 * I love meeting new people (still kinda *introvert*)
-* I'm still teenager(17), yeah on 10 April 2004
+* Currently havinf a 365Days of Code Challenge
 * I use daily .java, .py, .cpp, .sql
 * Funny + Unique -> **Funique**
 
