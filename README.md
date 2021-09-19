@@ -20,12 +20,12 @@
 <img align ="right" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/NUX_Octodex.gif" width="310" height="270"/>
 
 ### About Me:
-* On the road, to become a Software Engineer!
-* Learning Python, Java, React, Kotlin, and 69 others...
-* I love meeting new people (still kinda *introvert*)
-* Currently havinf a 365Days of Code Challenge
-* I use daily .java, .py, .cpp, .sql
-* Funny + Unique -> **Funique**
+* ✈️  On the road, to become a Software Engineer!
+* 🎓  Learning Python, Java, React, Kotlin, and 69 others...
+* 😊  I love meeting new people (still kinda *introvert*)
+* 🔥  Currently having a 365Days of Code Challenge
+* 💻  I use daily .java, .py, .cpp, .sql
+* 🎧  Funny + Unique -> **Funique**
 
 ### Connect? lets get social
 <a href="https://open.spotify.com/user/b2yw04pn2dz5s92mdibm9q2f2" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/spotify.svg" alt="NOAH" height="40" width="50" /></a>
