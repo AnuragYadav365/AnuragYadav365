@@ -32,11 +32,11 @@
 <a href="https://open.spotify.com/user/b2yw04pn2dz5s92mdibm9q2f2" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/spotify.svg" alt="NOAH" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/anurag-y-70295b178" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/linkedin.svg" alt="anurag-y-70295b178" height="40" width="50"/></a>
 <a href="https://www.codechef.com/users/anurag_yadav01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anurag_yadav01" height="40" width="50"/></a>
+<a href="https://app.slack.com/client/TT6RH833K/CTH1CMP8V/user_profile/U02ELNN03TJ" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/slack-logo.svg" alt="AnuragYadav" height="40" width="50"/></a>
 <a href="https://www.hackerrank.com/str_anuragyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="str_anuragyadav" height="30" width="40" /></a>
 <a href="https://discord.gg/#5785" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/discord.svg" alt="#5785" height="40" width="50"/></a>
 <a href="https://wa.me/918847697633" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/whatsapp.svg" alt="AnuragYadav365" height="40" width="50"/></a>
 <a href="https://t.me/itsanurag07" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/telegram.svg" alt="AnuragYadav365" height="40" width="50"/></a>
-
 
 ## Life's Moto
 *Live life at its best(try everything), so that when Heaven calls, can proudly say **I have lived my life joyfully with a lot of fun**
