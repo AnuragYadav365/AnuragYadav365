@@ -105,17 +105,7 @@ Nothing new Right now!
 
 ## Star Rating Section
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-<script src="src\jquery.star-rating-svg.js"></script>
-<link rel="stylesheet" type="text/css" href="src\css\star-rating-svg.css">
-<div> class="my-rating-4" data-rating="2.5"></div>
 
-$(".my-rating-4").starRating({
-  totalStars: 5,
-  starShape: 'rounded',
-  starSize: 40,
-  emptyColor: 'lightgray',
-  hoverColor: 'salmon',
-  activeColor: 'crimson',
-  useGradient: false
-});
+<div align="center">
+    <img src="src\hello.svg" width="400" height="400" alt="css-in-readme">
+</div>
