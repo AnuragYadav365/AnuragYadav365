@@ -102,3 +102,20 @@ Nothing new Right now!
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/AnuragYadav365)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://github.com/AnuragYadav365)
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/AnuragYadav365/)
+
+## Star Rating Section
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="src\jquery.star-rating-svg.js"></script>
+<link rel="stylesheet" type="text/css" href="src\css\star-rating-svg.css">
+<div> class="my-rating-4" data-rating="2.5"></div>
+
+$(".my-rating-4").starRating({
+  totalStars: 5,
+  starShape: 'rounded',
+  starSize: 40,
+  emptyColor: 'lightgray',
+  hoverColor: 'salmon',
+  activeColor: 'crimson',
+  useGradient: false
+});
