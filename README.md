@@ -20,12 +20,12 @@
 <img align ="right" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/NUX_Octodex.gif" width="310" height="270"/>
 
 ### About Me:
-* ✈️  On the road, to become a Software Development Engineer[SDE]!
-* 🎓  Learning Python, Java, React, Kotlin, and 69 others...
+* <img src="https://emojis.slackmojis.com/emojis/images/1471045851/840/henderson14.gif?1471045851" width="30"/> On the road, to become a Software Development Engineer[SDE]!
+* <img src="https://emojis.slackmojis.com/emojis/images/1617807114/28039/study.png?1617807114" width="30"/> Learning Python, Java, React, Kotlin, and 69 others... 
 * <img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="30"/> I love meeting new people (still kinda *introvert*)
-* 🔥  Currently having a 365Days of Code Challenge
+* <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30"/> Currently having a 365Days of Code Challenge
 * <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/>  I use daily .java, .py, .cpp, .sql  💻
-* 🎧  Funny + Unique -> **Funique**
+* <img src="https://emojis.slackmojis.com/emojis/images/1471045859/871/makeup.gif?1471045859" width="28"/> Funny + Unique -> **Funique**
 
 ### Connect? lets get social
 <a href="https://github.com/AnuragYadav365" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/github.svg" alt="AnuragYadav365" height="40" width="50"/></a>
@@ -54,7 +54,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragyadav365&theme=radical" alt="anuragyadav365" /></p>
 <br/>
 
-### - 🔥  Languages and Tools...  🔥
+### - <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>  Languages and Tools...  <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
@@ -98,7 +98,7 @@ Nothing new Right now!
 </details>
 
 <h1 align='center'>
-⚡️<i>Stay awesome, Keep Chilling!</i>⚡️</h1>
+⚡️<i>Stay awesome <img src="https://emojis.slackmojis.com/emojis/images/1471045852/842/hi.gif?1471045852" width="50"/> Keep Chilling!</i>⚡️</h1>
 
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](https://github.com/AnuragYadav365)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://github.com/AnuragYadav365)
