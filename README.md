@@ -18,8 +18,10 @@
 
 <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/india.png" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
 
-<a href="https://app.daily.dev/AnuragYadav"><img align = "right" src="https://api.daily.dev/devcards/a6cb49a1380f4ceb935c8513278d16de.png?r=3kw" width="400" alt="Anurag Yadav's Dev Card"/></a>
+<a href="https://app.daily.dev/AnuragYadav"><img align = "right" src="https://api.daily.dev/devcards/a6cb49a1380f4ceb935c8513278d16de.png?r=3kw" width="350" alt="Anurag Yadav's Dev Card"/></a>
 
+<div align="left">
+  
 ### About Me:
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045851/840/henderson14.gif?1471045851" width="30"/> On the road, to become a Software Development Engineer[SDE]!
 * <img src="https://emojis.slackmojis.com/emojis/images/1617807114/28039/study.png?1617807114" width="30"/> Learning Python, Java, React, Kotlin, and 69 others... 
@@ -27,6 +29,8 @@
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30"/> Currently having a 365Days of Code Challenge
 * <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/>  I use daily .java, .py, .cpp, .sql  💻
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045859/871/makeup.gif?1471045859" width="28"/> Funny + Unique -> **Funique**
+</div>
+<br>
 
 ### Connect? lets get social
 <a href="https://github.com/AnuragYadav365" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/github.svg" alt="AnuragYadav365" height="40" width="50"/></a>
@@ -39,10 +43,13 @@
 <a href="https://wa.me/918847697633" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/whatsapp.svg" alt="AnuragYadav365" height="40" width="50"/></a>
 <a href="https://t.me/itsanurag07" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/telegram.svg" alt="AnuragYadav365" height="40" width="50"/></a>
 
+<div>
+  
 ## Life's Moto
 *Live life at its best(try everything), so that when Heaven calls, can proudly say **I have lived my life joyfully with a lot of fun** 
 <img align = "center" src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="50"/>
-
+</div>
+  
 <!--<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>-->
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'/> My Github Stats:
