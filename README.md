@@ -16,8 +16,9 @@
 </div>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Check Me Out</h1>
 
-> <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/india.png" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
-<img align ="right" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/NUX_Octodex.gif" width="310" height="270"/>
+<p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/india.png" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
+
+<a href="https://app.daily.dev/AnuragYadav"><img align = "right" src="https://api.daily.dev/devcards/a6cb49a1380f4ceb935c8513278d16de.png?r=3kw" width="400" alt="Anurag Yadav's Dev Card"/></a>
 
 ### About Me:
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045851/840/henderson14.gif?1471045851" width="30"/> On the road, to become a Software Development Engineer[SDE]!
