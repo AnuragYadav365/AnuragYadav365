@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://badgen.net/badge/Hactoberfest/2021/pink/" alt="hactoberfes2021"/><img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365"/> <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1986?logoColor=white%26project=%26recentMS=0%26showProject=false"/>
+<img align = "left" src="https://badgen.net/badge/Hactoberfest/2021/pink/" alt="hactoberfes2021"/> <img src="https://komarev.com/ghpvc/?username=anuragyadav365&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav365"/> <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1986?logoColor=white%26project=%26recentMS=0%26showProject=false"/>
 </div>
 
 <div align="center">
