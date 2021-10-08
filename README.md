@@ -16,8 +16,8 @@
 </div>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/> Check Me Out</h1>
 
-> <p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/india.png" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
-<img align ="right" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/NUX_Octodex.gif" width="310" height="270"/>
+<p>Welcome to my Github! </br> I'm Anurag, passionate programmer from <img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/india.png" width="13"/> <b>Chandigarh, India</b> currently an undergraduate student.</p>
+<a href="https://app.daily.dev/AnuragYadav"><img align="right" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/devcard.svg" width="350" alt="Anurag Yadav's Dev Card"/></a>
 
 ### About Me:
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045851/840/henderson14.gif?1471045851" width="30"/> On the road, to become a Software Development Engineer[SDE]!
@@ -26,6 +26,7 @@
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30"/> Currently having a 365Days of Code Challenge
 * <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/>  I use daily .java, .py, .cpp, .sql  💻
 * <img src="https://emojis.slackmojis.com/emojis/images/1471045859/871/makeup.gif?1471045859" width="28"/> Funny + Unique -> **Funique**
+* <img src="https://emojis.slackmojis.com/emojis/images/1613479407/13343/trophy.gif?1613479407" width="28"/> Contributing To Hactoberfest 2021
 
 ### Connect? lets get social
 <a href="https://github.com/AnuragYadav365" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/more/github.svg" alt="AnuragYadav365" height="40" width="50"/></a>
@@ -38,9 +39,13 @@
 <a href="https://wa.me/918847697633" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/whatsapp.svg" alt="AnuragYadav365" height="40" width="50"/></a>
 <a href="https://t.me/itsanurag07" target="blank"><img align="center" src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/svg/social/telegram.svg" alt="AnuragYadav365" height="40" width="50"/></a>
 
+<div>
+  
 ## Life's Moto
 *Live life at its best(try everything), so that when Heaven calls, can proudly say **I have lived my life joyfully with a lot of fun** 
 <img align = "center" src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="50"/>
+  
+</div>
 
 <!--<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>-->
 
