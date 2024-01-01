@@ -53,7 +53,7 @@
   
 </div>
 
-<!--<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>-->
+<!--<img src="https://github.com/AnuragYadav365/AnuragYadav365/blob/main/Resources/highQ.gif" width="800" height="420"/>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'/> My Github Stats:
 
@@ -67,7 +67,6 @@
 -->
 ### - <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>  Languages and Tools...  <img src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif?1619774527" width="30"/>
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
